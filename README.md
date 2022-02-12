@@ -1,4 +1,4 @@
 # chaoscrapy
-Written program to scrap all the bug bounty target in a single file. It can help you analyse all the bug bounty target in a single shot.
+Written program to scrape all the bug bounty target in a single file to take them down in a single shot.
 
 Credit: https://chaos.projectdiscovery.io/#/
